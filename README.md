@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ryan Smith
 
-# Your Github username
+# Ryansmith4444
