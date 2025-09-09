@@ -33,6 +33,7 @@ This is further down the beach.
 
 == shells ==
 You pick up the shells
+{& Big | Medium | Small 
 -> beach2
 
 == crabs ==
