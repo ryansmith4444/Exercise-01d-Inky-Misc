@@ -35,6 +35,21 @@ This is further down the beach.
 You pick up the shells
 -> beach2
 
+== crabs ==
+You see little crabs running around.
+
++ [ Put them back in the water ] -> water
+-> DONE
+
+== water == 
+The ocean looks nice today !
++[ Go for a swim ]
+-> DONE
+
+== swim ==
+ The water is warm and the waves are crashing. 
+ -> seashore
+
 == function advance_time ==
 
     ~ time = time + 1
